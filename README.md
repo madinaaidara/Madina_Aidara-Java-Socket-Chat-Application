@@ -64,4 +64,4 @@ L’application dispose d’une interface graphique développée avec Java Swing
 
 ##  Auteur
 
-**Madina Aidara**
+**Madina Aidara L3 Génie Logiciel**
